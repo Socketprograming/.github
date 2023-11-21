@@ -13,9 +13,9 @@
 | 개발 | [정태우](https://github.com/taewoojeong) | 💻 |
 
 ### Repository
-| 개발 | https://github.com/Socketprograming/BackEnd
+| BE | https://github.com/Socketprograming/BackEnd
 
-| 개발 | https://github.com/Socketprograming/FrontEnd
+| FE | https://github.com/Socketprograming/FrontEnd
 
 ## computer: Technology
 - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=Java&logoColor=white) ![Springboot](https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
