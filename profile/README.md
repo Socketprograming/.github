@@ -8,9 +8,9 @@
 
 | 개발 | [이성원](https://github.com/lsw71311) | 🖥️ DB 및 API 구축, websocket 연결 |
 
-| 개발 | [정태우](https://github.com/taewoojeong) | 💻 |
-
 | 개발 | [박예진](https://github.com/uiop5809) | 🖥️ 프론트 개발 |
+
+| 개발 | [정태우](https://github.com/taewoojeong) | 💻 |
 
 
 ## computer: Technology
